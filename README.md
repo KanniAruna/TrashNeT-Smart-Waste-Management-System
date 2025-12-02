@@ -1,0 +1,1 @@
+# TrashNeT-Smart-Waste-Management-System
